@@ -3,8 +3,8 @@
  "license": "CC BY 4.0",
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "SaunaCosts, https://saunacosts.com/",
- "prices_verified": "2026-09-24",
- "generated": "2026-09-25",
+ "prices_verified": "2026-09-30",
+ "generated": "2026-10-02",
  "rows": [
   {
    "brand": "Almost Heaven",
@@ -78,7 +78,7 @@
    "exterior_dimensions": "78″W x 71″D x 75⅜″H",
    "warranty_years_display": "Limited lifetime",
    "price_low": 5303,
-   "price_high": 7784,
+   "price_high": 6002,
    "source_page": "https://saunacosts.com/items/almost-heaven-audra-2-4-person-canopy-barrel-sauna/"
   },
   {
@@ -92,8 +92,8 @@
    "wood_type": "Rustic Cedar",
    "exterior_dimensions": null,
    "warranty_years_display": "Limited lifetime",
-   "price_low": 11549.25,
-   "price_high": 11549.25,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/almost-heaven-blackwater-1-2-person-mini-cube-sauna/"
   },
   {
@@ -107,8 +107,8 @@
    "wood_type": "Cedar",
    "exterior_dimensions": "84 3/8 x 71 in (approx 7 x 6 ft)",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 9998,
-   "price_high": 10563.75,
+   "price_low": 8397,
+   "price_high": 8397,
    "source_page": "https://saunacosts.com/items/almost-heaven-blackwater-4-person-cube-sauna/"
   },
   {
@@ -138,7 +138,7 @@
    "exterior_dimensions": "78″W x 94″D x 75 ⅜″H",
    "warranty_years_display": "Limited lifetime",
    "price_low": 6252,
-   "price_high": 7267,
+   "price_high": 7974,
    "source_page": "https://saunacosts.com/items/almost-heaven-charleston-4-person-canopy-barrel-sauna/"
   },
   {
@@ -153,7 +153,7 @@
    "exterior_dimensions": "7 x 6 ft",
    "warranty_years_display": "Limited lifetime",
    "price_low": 5984,
-   "price_high": 6697,
+   "price_high": 6758,
    "source_page": "https://saunacosts.com/items/almost-heaven-essex-4-person-barrel-sauna/"
   },
   {
@@ -167,8 +167,8 @@
    "wood_type": "Pine",
    "exterior_dimensions": "88 13/16 x 96 1/16 in (approx 7.4 x 8 ft)",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 8094.1,
-   "price_high": 8094.1,
+   "price_low": 8373,
+   "price_high": 8373,
    "source_page": "https://saunacosts.com/items/almost-heaven-evander-half-moon-canopy-barrel-sauna-harvia-collection/"
   },
   {
@@ -212,7 +212,7 @@
    "wood_type": "Rustic Red Cedar",
    "exterior_dimensions": "71½″W x 71½″D x 77⅝″H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 5598,
+   "price_low": 5479,
    "price_high": 8895,
    "source_page": "https://saunacosts.com/items/almost-heaven-grayson-4-person-indoor-sauna/"
   },
@@ -257,8 +257,8 @@
    "wood_type": "Nordic Spruce",
    "exterior_dimensions": "80\" W x 80\" D x 80\" H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 6099.99,
-   "price_high": 9243,
+   "price_low": 6792,
+   "price_high": 9044,
    "source_page": "https://saunacosts.com/items/almost-heaven-himalaya-large-6-person/"
   },
   {
@@ -287,8 +287,8 @@
    "wood_type": "Nordic Spruce",
    "exterior_dimensions": "81\" W x 54\" D x 80\" H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4466.87,
-   "price_high": 8963,
+   "price_low": 8651,
+   "price_high": 11278,
    "source_page": "https://saunacosts.com/items/almost-heaven-himalaya-small-4-person/"
   },
   {
@@ -332,8 +332,8 @@
    "wood_type": "Pine",
    "exterior_dimensions": "88 13/16 x 72 7/16 in (approx 7.4 x 6 ft)",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 6092.8,
-   "price_high": 6092.8,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/almost-heaven-kuuma-4-6-person-classic-barrel-sauna-harvia-collection/"
   },
   {
@@ -363,7 +363,7 @@
    "exterior_dimensions": "7 x 8 ft",
    "warranty_years_display": null,
    "price_low": 6358,
-   "price_high": 9083,
+   "price_high": 10638,
    "source_page": "https://saunacosts.com/items/almost-heaven-lewisburg-6-8-person-barrel-sauna/"
   },
   {
@@ -378,7 +378,7 @@
    "exterior_dimensions": "53¼″W x 36″D x 77⅝″H",
    "warranty_years_display": "Limited lifetime",
    "price_low": 3885,
-   "price_high": 4982.27,
+   "price_high": 5086,
    "source_page": "https://saunacosts.com/items/almost-heaven-logan-1-person-indoor-sauna/"
   },
   {
@@ -392,7 +392,7 @@
    "wood_type": "Rustic Red Cedar",
    "exterior_dimensions": "65″W x 53″D x 77⅝″H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4786,
+   "price_low": 3949.99,
    "price_high": 5214,
    "source_page": "https://saunacosts.com/items/almost-heaven-madison-2-3-person-indoor-sauna/"
   },
@@ -423,7 +423,7 @@
    "exterior_dimensions": "83 1/4 x 63 3/4 in (approx 6.9 x 5.3 ft)",
    "warranty_years_display": "Limited lifetime",
    "price_low": 5465,
-   "price_high": 7806,
+   "price_high": 11376,
    "source_page": "https://saunacosts.com/items/almost-heaven-oasis-4-person-indoor-sauna/"
   },
   {
@@ -468,7 +468,7 @@
    "exterior_dimensions": "6 x 6 ft",
    "warranty_years_display": "Limited lifetime",
    "price_low": 5303,
-   "price_high": 6002,
+   "price_high": 7725.6,
    "source_page": "https://saunacosts.com/items/almost-heaven-pinnacle-4-person-barrel-sauna/"
   },
   {
@@ -483,7 +483,7 @@
    "exterior_dimensions": "78 x 94 x 75.38 in",
    "warranty_years_display": null,
    "price_low": 6252,
-   "price_high": 9331,
+   "price_high": 10470,
    "source_page": "https://saunacosts.com/items/almost-heaven-princeton-6-person-barrel-sauna/"
   },
   {
@@ -497,7 +497,7 @@
    "wood_type": "Rustic Red Cedar",
    "exterior_dimensions": "71½″W x 62¾″D x 77⅝″H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 5127,
+   "price_low": 4299.99,
    "price_high": 9100.8,
    "source_page": "https://saunacosts.com/items/almost-heaven-rainelle-4-person-indoor-sauna/"
   },
@@ -573,7 +573,7 @@
    "exterior_dimensions": "82 3/8 x 119 in",
    "warranty_years_display": "Limited lifetime",
    "price_low": 7455,
-   "price_high": 14619,
+   "price_high": 10650,
    "source_page": "https://saunacosts.com/items/almost-heaven-shenandoah-4-person-barrel-sauna/"
   },
   {
@@ -617,7 +617,7 @@
    "wood_type": null,
    "exterior_dimensions": null,
    "warranty_years_display": null,
-   "price_low": 4515,
+   "price_low": 4667,
    "price_high": 6016,
    "source_page": "https://saunacosts.com/items/almost-heaven-sutton-2-person-indoor-sauna/"
   },
@@ -648,7 +648,7 @@
    "exterior_dimensions": "160.25 x 79.94 x 106.75 in",
    "warranty_years_display": "Limited lifetime",
    "price_low": 9963,
-   "price_high": 11962,
+   "price_high": 14233,
    "source_page": "https://saunacosts.com/items/almost-heaven-timberline-outdoor-sauna-harvia-collection/"
   },
   {
@@ -678,7 +678,7 @@
    "exterior_dimensions": "76.56 x 73.44 x 80.31 in",
    "warranty_years_display": "Limited lifetime",
    "price_low": 6109,
-   "price_high": 6374,
+   "price_high": 6417.6,
    "source_page": "https://saunacosts.com/items/almost-heaven-tyrol-indoor-sauna-harvia-collection/"
   },
   {
@@ -722,7 +722,7 @@
    "wood_type": "Rustic Red Cedar",
    "exterior_dimensions": "78 x 59 x 75.375 in",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4665,
+   "price_low": 4922,
    "price_high": 5522,
    "source_page": "https://saunacosts.com/items/almost-heaven-watoga-2-4-person-barrel-sauna-kit/"
   },
@@ -768,7 +768,7 @@
    "exterior_dimensions": "86.61 x 110.24 x 96.06 in",
    "warranty_years_display": null,
    "price_low": 34999,
-   "price_high": 43990,
+   "price_high": 46485,
    "source_page": "https://saunacosts.com/items/auroom-arti/"
   },
   {
@@ -783,7 +783,7 @@
    "exterior_dimensions": "69 x 68 x 97 in",
    "warranty_years_display": null,
    "price_low": 17990,
-   "price_high": 20740,
+   "price_high": 19740,
    "source_page": "https://saunacosts.com/items/auroom-aura/"
   },
   {
@@ -812,7 +812,7 @@
    "wood_type": "Thermo-aspen",
    "exterior_dimensions": "64.25 x 64.25 x 80.75 in",
    "warranty_years_display": null,
-   "price_low": 7990,
+   "price_low": 8490,
    "price_high": 9990,
    "source_page": "https://saunacosts.com/items/auroom-baia-wood-indoor-sauna-kit/"
   },
@@ -827,7 +827,7 @@
    "wood_type": "Aspen (Thermo-Aspen option)",
    "exterior_dimensions": "59 x 59 x 80.75 in",
    "warranty_years_display": null,
-   "price_low": 8990,
+   "price_low": 7470.33,
    "price_high": 8990,
    "source_page": "https://saunacosts.com/items/auroom-cala-glass-cabin-sauna-kit/"
   },
@@ -843,7 +843,7 @@
    "exterior_dimensions": "37.4 x 37.4 x 80.7 in",
    "warranty_years_display": null,
    "price_low": 6990,
-   "price_high": 6990,
+   "price_high": 7790,
    "source_page": "https://saunacosts.com/items/auroom-cala-glass-mini-sauna-kit/"
   },
   {
@@ -857,7 +857,7 @@
    "wood_type": "Thermo-aspen",
    "exterior_dimensions": "59 x 59 x 80.75 in",
    "warranty_years_display": null,
-   "price_low": 6986,
+   "price_low": 7990,
    "price_high": 8790,
    "source_page": "https://saunacosts.com/items/auroom-cala-wood-cabin-sauna-kit/"
   },
@@ -873,7 +873,7 @@
    "exterior_dimensions": "90.55 x 90.55 x 98.82 in",
    "warranty_years_display": null,
    "price_low": 24999,
-   "price_high": 33890,
+   "price_high": 35485,
    "source_page": "https://saunacosts.com/items/auroom-garda/"
   },
   {
@@ -887,7 +887,7 @@
    "wood_type": "Aspen",
    "exterior_dimensions": "71 x 59 x 82.7 in",
    "warranty_years_display": null,
-   "price_low": 14990,
+   "price_low": 8779,
    "price_high": 15990,
    "source_page": "https://saunacosts.com/items/auroom-libera-glass-cabin-sauna-kit/"
   },
@@ -933,7 +933,7 @@
    "exterior_dimensions": "86 x 87 x 97 in",
    "warranty_years_display": null,
    "price_low": 22990,
-   "price_high": 22990,
+   "price_high": 23990,
    "source_page": "https://saunacosts.com/items/auroom-mira-l/"
   },
   {
@@ -963,7 +963,7 @@
    "exterior_dimensions": "137.8 x 137.8 x 111.42 in",
    "warranty_years_display": null,
    "price_low": 35400,
-   "price_high": 61845,
+   "price_high": 62485,
    "source_page": "https://saunacosts.com/items/auroom-natura/"
   },
   {
@@ -978,7 +978,7 @@
    "exterior_dimensions": "101.6 x 86.6 x 98.4 in",
    "warranty_years_display": null,
    "price_low": 37167,
-   "price_high": 47890,
+   "price_high": 49980,
    "source_page": "https://saunacosts.com/items/auroom-terra-outdoor-cabin-sauna/"
   },
   {
@@ -993,7 +993,7 @@
    "exterior_dimensions": "78.74 x 78.74 x 86.22 in",
    "warranty_years_display": null,
    "price_low": 13612.92,
-   "price_high": 16900,
+   "price_high": 16695,
    "source_page": "https://saunacosts.com/items/auroom-vulcana/"
   },
   {
@@ -1322,8 +1322,8 @@
    "wood_type": "DriftwoodTec (exterior) / Mahogany (interior)",
    "exterior_dimensions": "56.5 x 50.25 x 78.5 in",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 7299,
-   "price_high": 7299,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/clearlight-sanctuary-outdoor-2/"
   },
   {
@@ -1337,8 +1337,8 @@
    "wood_type": "Canadian white cedar",
    "exterior_dimensions": "Approx. 96\" W x 98\" D x 88\" H (per maker's own scaled technical drawing; barrel width/height called out as 96\"/88\" on the Side View, 98\"/96\" on the Top View)",
    "warranty_years_display": null,
-   "price_low": 6945,
-   "price_high": 6976,
+   "price_low": 6975.5,
+   "price_high": 11124,
    "source_page": "https://saunacosts.com/items/dundalk-leisurecraft-canadian-timber-elation-barrel-sauna/"
   },
   {
@@ -1488,7 +1488,7 @@
    "exterior_dimensions": "94.5″ (240 cm) D x 86.25″ (219 cm)",
    "warranty_years_display": null,
    "price_low": 8005.5,
-   "price_high": 10499,
+   "price_high": 10096.5,
    "source_page": "https://saunacosts.com/items/dundalk-leisurecraft-canadian-timber-serenity-barrel-sauna-mp-panoramic-halfmoon/"
   },
   {
@@ -1548,7 +1548,7 @@
    "exterior_dimensions": null,
    "warranty_years_display": null,
    "price_low": 5830,
-   "price_high": 8592.5,
+   "price_high": 5830,
    "source_page": "https://saunacosts.com/items/dundalk-leisurecraft-clear-cedar-outdoor-cabin-sauna-electric/"
   },
   {
@@ -1727,7 +1727,7 @@
    "wood_type": "Knotty Red Cedar",
    "exterior_dimensions": null,
    "warranty_years_display": null,
-   "price_low": 6670,
+   "price_low": 10391,
    "price_high": 10391,
    "source_page": "https://saunacosts.com/items/dundalk-leisurecraft-knotty-red-cedar-panoramic-sauna-7x6-with-changeroom-and-po/"
   },
@@ -1757,7 +1757,7 @@
    "wood_type": "Cedar wood construction",
    "exterior_dimensions": "32\" x 34\" x 67\"",
    "warranty_years_display": null,
-   "price_low": 1414.99,
+   "price_low": 1399,
    "price_high": 2999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-1-person-compact-ultra-low-emf-far-infrared-sauna-dyn-120/"
   },
@@ -1817,7 +1817,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "39\" x 36\" x 73\" (roof overhang: adds 2\" to depth)",
    "warranty_years_display": null,
-   "price_low": 1899,
+   "price_low": 2099,
    "price_high": 3999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-barcelona-elite-1-2-person-ultra-low-emf-far-ir-sauna-dyn/"
   },
@@ -1877,7 +1877,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "46″ x 41″ x 75″",
    "warranty_years_display": null,
-   "price_low": 2499,
+   "price_low": 3299,
    "price_high": 5999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-cordoba-2-person-full-spectrum-ir-sauna-dyn-6203-02-fs/"
   },
@@ -2132,7 +2132,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "47\" x 42\" x 75\" (roof overhang: adds 2\" to depth)",
    "warranty_years_display": null,
-   "price_low": 1899,
+   "price_low": 2099,
    "price_high": 3999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-san-marino-2-person-low-emf-far-infrared-sauna-dyn-6206-0/"
   },
@@ -2312,7 +2312,7 @@
    "wood_type": "Natural Canadian Reforested Hemlock wood construction",
    "exterior_dimensions": "39\" x 36\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2399,
+   "price_low": 2299,
    "price_high": 4499,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-veneto-1-2-person-ultra-low-emf-far-ir-sauna-dyn-6115-05-/"
   },
@@ -2342,7 +2342,7 @@
    "wood_type": "Natural Canadian Reforested Hemlock wood construction",
    "exterior_dimensions": "39\" x 36\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2699,
+   "price_low": 1414.99,
    "price_high": 2699,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-veneto-black-finish-1-2-person-ultra-low-emf-far-ir-sauna/"
   },
@@ -2387,7 +2387,7 @@
    "wood_type": null,
    "exterior_dimensions": null,
    "warranty_years_display": null,
-   "price_low": 3299,
+   "price_low": 3023.99,
    "price_high": 6999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-venice-limited-elite-2-person-ultra-low-emf-far-ir-sauna-/"
   },
@@ -2417,8 +2417,8 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "47\" x 42\" x 75\" (roof overhang: adds 2\" to depth)",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 3999,
+   "price_high": 3999,
    "source_page": "https://saunacosts.com/items/dynamic-saunas-dynamic-versailles-2-person-ultra-low-emf-far-ir-sauna-dyn-6202-0/"
   },
   {
@@ -2492,8 +2492,8 @@
    "wood_type": "Nordic White Spruce, interior and exterior",
    "exterior_dimensions": "72\" W x 84\" H x 60\" D; with roof at largest dimensions 88\" W x 87 7/8\" H x 84\" D",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 15120,
+   "price_high": 15120,
    "source_page": "https://saunacosts.com/items/finnleo-northstar-nso-56-outdoor-sauna/"
   },
   {
@@ -2507,8 +2507,8 @@
    "wood_type": "Nordic White Spruce, interior and exterior",
    "exterior_dimensions": "84\" W x 84\" H x 60\" D; with roof at largest dimensions 100\" W x 87 7/8\" H x 84\" D",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 16200,
+   "price_high": 16200,
    "source_page": "https://saunacosts.com/items/finnleo-northstar-nso-57-outdoor-sauna/"
   },
   {
@@ -2672,7 +2672,7 @@
    "wood_type": "Canadian Red Cedar Interior Wood and Pacific Premium Clear Cedar with Clear Stain on Exterior",
    "exterior_dimensions": "79\" x 72\" x 83\"",
    "warranty_years_display": null,
-   "price_low": 8499,
+   "price_low": 8599,
    "price_high": 9999,
    "source_page": "https://saunacosts.com/items/golden-designs-2025-golden-designs-updated-osla-6-person-traditional-sauna-gdi-7/"
   },
@@ -2732,7 +2732,7 @@
    "wood_type": "Canadian Hemlock",
    "exterior_dimensions": "66 x 60 x 87 in",
    "warranty_years_display": null,
-   "price_low": 5999,
+   "price_low": 5499,
    "price_high": 6999,
    "source_page": "https://saunacosts.com/items/golden-designs-arlberg-3-person-traditional-flat-roof-sauna-gdi-8003-01/"
   },
@@ -2867,7 +2867,7 @@
    "wood_type": "Canadian Hemlock",
    "exterior_dimensions": "81 x 60 x 87 in",
    "warranty_years_display": null,
-   "price_low": 8999,
+   "price_low": 7999,
    "price_high": 9099,
    "source_page": "https://saunacosts.com/items/golden-designs-gargellen-5-person-hybrid-flat-roof-sauna-gdi-8025-01/"
   },
@@ -2942,7 +2942,7 @@
    "wood_type": "Red Cedar",
    "exterior_dimensions": "84 x 69 x 95 in",
    "warranty_years_display": null,
-   "price_low": 7499,
+   "price_low": 10909,
    "price_high": 22999,
    "source_page": "https://saunacosts.com/items/golden-designs-kaskinen-6-person-barn-hybrid-puretech-full-spectrum-ir-or-tradit/"
   },
@@ -3017,7 +3017,7 @@
    "wood_type": "Red Cedar",
    "exterior_dimensions": "68 x 69 x 89 in",
    "warranty_years_display": null,
-   "price_low": 9099,
+   "price_low": 9989,
    "price_high": 20999,
    "source_page": "https://saunacosts.com/items/golden-designs-loviisa-3-person-barn-hybrid-puretech-full-spectrum-ir-or-traditi/"
   },
@@ -3062,7 +3062,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "73″ x 61″ x 79″ (roof overhang: adds 6\" to depth)",
    "warranty_years_display": null,
-   "price_low": 6499,
+   "price_low": 4499,
    "price_high": 8999,
    "source_page": "https://saunacosts.com/items/golden-designs-monaco-near-zero-emf-far-ir-sauna-gdi-6996-01-elite/"
   },
@@ -3227,8 +3227,8 @@
    "wood_type": "Red Cedar",
    "exterior_dimensions": "79 x 72 x 83 in",
    "warranty_years_display": null,
-   "price_low": 8499,
-   "price_high": 8599,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/golden-designs-updated-osla-6-person-traditional-sauna-gdi-7689-02/"
   },
   {
@@ -3272,7 +3272,7 @@
    "wood_type": "Canadian Hemlock",
    "exterior_dimensions": "81 x 60 x 87 in",
    "warranty_years_display": null,
-   "price_low": 6999,
+   "price_low": 7999,
    "price_high": 7999,
    "source_page": "https://saunacosts.com/items/golden-designs-vorarlberg-5-person-traditional-flat-roof-sauna-gdi-8005-01/"
   },
@@ -3317,8 +3317,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "47.3 x 39.5 x 75 in",
    "warranty_years_display": null,
-   "price_low": 1199,
-   "price_high": 1199,
+   "price_low": 1999,
+   "price_high": 1999,
    "source_page": "https://saunacosts.com/items/jnh-lifestyles-ensi-high-heat-170f-2-person-far-infrared-sauna-ultra-low-emf/"
   },
   {
@@ -3332,8 +3332,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "35.5 x 35.5 x 75 in",
    "warranty_years_display": null,
-   "price_low": 1099,
-   "price_high": 1099,
+   "price_low": 1699,
+   "price_high": 1699,
    "source_page": "https://saunacosts.com/items/jnh-lifestyles-joyous-1-person-far-infrared-sauna-low-emf/"
   },
   {
@@ -3347,8 +3347,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "47.3 x 39.5 x 75 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 2499,
+   "price_high": 2499,
    "source_page": "https://saunacosts.com/items/jnh-lifestyles-joyous-2-person-far-infrared-sauna-low-emf/"
   },
   {
@@ -3362,8 +3362,8 @@
    "wood_type": null,
    "exterior_dimensions": "47.31 x 41.7 x 75 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 2459.99,
+   "price_high": 2459.99,
    "source_page": "https://saunacosts.com/items/jnh-lifestyles-proseries-200-high-heat-170f-2-person-full-body-360-indoor-patio-/"
   },
   {
@@ -3377,8 +3377,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "35.5 x 35.5 x 75 in",
    "warranty_years_display": null,
-   "price_low": 1799,
-   "price_high": 1799,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/jnh-lifestyles-tosi-1-person-full-spectrum-infrared-sauna-hemlock-ultra-low-emf/"
   },
   {
@@ -3423,7 +3423,7 @@
    "exterior_dimensions": "86 x 89 x 87 in",
    "warranty_years_display": null,
    "price_low": 9490,
-   "price_high": 10680,
+   "price_high": 10480,
    "source_page": "https://saunacosts.com/items/leil-black-cube-comfort-6-person-outdoor-sauna/"
   },
   {
@@ -3467,8 +3467,8 @@
    "wood_type": "thermally treated pine",
    "exterior_dimensions": "86.2 x 65.4 x 86.6 in",
    "warranty_years_display": null,
-   "price_low": 7990,
-   "price_high": 9180,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/leil-black-cube-premium-outdoor-sauna-kit/"
   },
   {
@@ -3482,8 +3482,8 @@
    "wood_type": "Thermo Pine (walls), Aspen (benches)",
    "exterior_dimensions": "48\" W x 51.6\" D x 81.9\" H",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 6590,
+   "price_high": 6590,
    "source_page": "https://saunacosts.com/items/leil-como-120/"
   },
   {
@@ -3497,8 +3497,8 @@
    "wood_type": "Thermo Pine (walls), Aspen (benches)",
    "exterior_dimensions": "60.0\" W x 51.6\" D x 81.9\" H",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 6590,
+   "price_high": 6590,
    "source_page": "https://saunacosts.com/items/leil-como-150/"
   },
   {
@@ -3602,7 +3602,7 @@
    "wood_type": "Canadian Red Cedar",
    "exterior_dimensions": "50 x 42 x 75 in",
    "warranty_years_display": null,
-   "price_low": 3699,
+   "price_low": 4299,
    "price_high": 6499,
    "source_page": "https://saunacosts.com/items/maxxus-2-person-full-spectrum-ir-sauna-mx-m206-01-fs-ced/"
   },
@@ -3647,7 +3647,7 @@
    "wood_type": "Red Cedar that emits a natural aroma to enhance your sauna experience. This sauna also features are newest Full Spectrum heating technology",
    "exterior_dimensions": "64\" x 44\" x 75\" (roof overhang: adds 5.9\" to depth)",
    "warranty_years_display": null,
-   "price_low": 4299,
+   "price_low": 4899,
    "price_high": 7999,
    "source_page": "https://saunacosts.com/items/maxxus-3-person-full-spectrum-ir-sauna-mx-m306-01-fs-ced/"
   },
@@ -3812,7 +3812,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "48\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2699,
+   "price_low": 2149,
    "price_high": 4499,
    "source_page": "https://saunacosts.com/items/maxxus-aspen-dual-tech-2-person-low-emf-far-ir-sauna-mx-j206-02s/"
   },
@@ -3827,7 +3827,7 @@
    "wood_type": "Natural Reforested Canadian Red Cedar wood construction",
    "exterior_dimensions": "60\" x 60\" x 75\" (roof overhang: adds 9.4\" to depth)",
    "warranty_years_display": null,
-   "price_low": 3299,
+   "price_low": 3899,
    "price_high": 7999,
    "source_page": "https://saunacosts.com/items/maxxus-avignon-3-person-corner-near-zero-emf-far-ir-sauna-mx-k356-01-zf-ced/"
   },
@@ -3857,7 +3857,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "61\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2899,
+   "price_low": 2699,
    "price_high": 5999,
    "source_page": "https://saunacosts.com/items/maxxus-bellevue-3-person-near-zero-emf-far-ir-sauna-mx-j306-01-zf/"
   },
@@ -3887,8 +3887,8 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "50″ x 42″ x 75″ (roof overhang: adds 5.9″ to depth)",
    "warranty_years_display": null,
-   "price_low": 3099,
-   "price_high": 3099,
+   "price_low": 2899,
+   "price_high": 4299,
    "source_page": "https://saunacosts.com/items/maxxus-cholet-2-person-near-zero-emf-far-ir-sauna-mx-k206-01-zf-hem/"
   },
   {
@@ -3947,7 +3947,7 @@
    "wood_type": "Natural Reforested Pacific Cedar wood construction",
    "exterior_dimensions": "48\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2499,
+   "price_low": 3299,
    "price_high": 7999,
    "source_page": "https://saunacosts.com/items/maxxus-s-line-2-person-full-spectrum-ir-sauna-mx-s206-01-fs-pc/"
   },
@@ -3977,7 +3977,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "48\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 3299,
+   "price_low": 3399,
    "price_high": 6999,
    "source_page": "https://saunacosts.com/items/maxxus-s-line-2-person-ultra-low-emf-far-ir-sauna-mx-s206-01-elite/"
   },
@@ -3992,7 +3992,7 @@
    "wood_type": "Natural Reforested Pacific Cedar wood construction",
    "exterior_dimensions": "60\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 4299,
+   "price_low": 3699,
    "price_high": 8999,
    "source_page": "https://saunacosts.com/items/maxxus-s-line-3-person-full-spectrum-ir-sauna-mx-s306-01-fs-pc/"
   },
@@ -4037,7 +4037,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "48\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2609.99,
+   "price_low": 2599.99,
    "price_high": 4999,
    "source_page": "https://saunacosts.com/items/maxxus-seattle-2-person-near-zero-emf-far-ir-sauna-mx-j206-01-zf/"
   },
@@ -4052,7 +4052,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "48\" x 40\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2149,
+   "price_low": 2699,
    "price_high": 4499,
    "source_page": "https://saunacosts.com/items/maxxus-serenity-dual-tech-2-person-low-emf-far-ir-sauna-mx-ls2-01/"
   },
@@ -4082,7 +4082,7 @@
    "wood_type": "Natural Reforested Canadian Hemlock wood construction",
    "exterior_dimensions": "55\" x 42\" x 75\"",
    "warranty_years_display": null,
-   "price_low": 2999,
+   "price_low": 2399,
    "price_high": 4999,
    "source_page": "https://saunacosts.com/items/maxxus-trinity-dual-tech-3-person-low-emf-far-ir-sauna-mx-ls3-01/"
   },
@@ -4412,8 +4412,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "78 x 67 x 92.5 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 7299,
+   "price_high": 7299,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-cabin-outdoor-sauna-4-person/"
   },
   {
@@ -4502,8 +4502,8 @@
    "wood_type": "Canadian Thermowood",
    "exterior_dimensions": "50.75 x 62.75 x 82.75 in",
    "warranty_years_display": null,
-   "price_low": 5899,
-   "price_high": 5899,
+   "price_low": 4299,
+   "price_high": 6695.99,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-duo-outdoor-sauna-2-person/"
   },
   {
@@ -4577,8 +4577,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "71.75 x 84.75 x 88.5 in",
    "warranty_years_display": null,
-   "price_low": 8299,
-   "price_high": 8299,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-extra-wide-outdoor-barrel-sauna-6-person/"
   },
   {
@@ -4622,8 +4622,8 @@
    "wood_type": "Heat-treated hemlock",
    "exterior_dimensions": "90.5 x 91 x 97 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 7999,
+   "price_high": 7999,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-garden-outdoor-sauna-x-denali-cold-plunge/"
   },
   {
@@ -4682,8 +4682,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "92.5 x 72.75 x 76.5 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 7599,
+   "price_high": 7599,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-horizon-outdoor-sauna-x-alaskan-all-in-one-cold-plunge/"
   },
   {
@@ -4742,8 +4742,8 @@
    "wood_type": "Hemlock",
    "exterior_dimensions": "46.13 x 47.25 x 81.13 in",
    "warranty_years_display": null,
-   "price_low": 6999,
-   "price_high": 6999,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/redwood-outdoors-solo-outdoor-sauna-x-alaskan-all-in-one-cold-plunge/"
   },
   {
@@ -4832,8 +4832,8 @@
    "wood_type": "None (fabric)",
    "exterior_dimensions": "32 x 32 x 46 in",
    "warranty_years_display": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 1700,
+   "price_high": 1700,
    "source_page": "https://saunacosts.com/items/relax-saunas-silver-elite-sauna/"
   },
   {
@@ -4982,8 +4982,8 @@
    "wood_type": "Thermo-Spruce (staves/exterior), Thermo-Aspen (benches/backrest)",
    "exterior_dimensions": "81\" Diameter x 71\" Length",
    "warranty_years_display": "Limited lifetime",
-   "price_low": null,
-   "price_high": null,
+   "price_low": 5690,
+   "price_high": 5690,
    "source_page": "https://saunacosts.com/items/saunalife-ergo-series-model-e7w/"
   },
   {
@@ -5013,7 +5013,7 @@
    "exterior_dimensions": "81\" Diameter x 87\" Length",
    "warranty_years_display": "Limited lifetime",
    "price_low": 6990,
-   "price_high": 7186.67,
+   "price_high": 6990,
    "source_page": "https://saunacosts.com/items/saunalife-ergo-series-model-e8g/"
   },
   {
@@ -5042,7 +5042,7 @@
    "wood_type": "Thermo-Spruce (staves/exterior), Thermo-Aspen (benches/backrest)",
    "exterior_dimensions": "91\" Diameter x 63\" Length",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4890,
+   "price_low": 4590,
    "price_high": 6940,
    "source_page": "https://saunacosts.com/items/saunalife-ergo-series-model-ee6g/"
   },
@@ -5072,7 +5072,7 @@
    "wood_type": "Thermo-Spruce (walls), Thermo-hardwood (benches/backrest)",
    "exterior_dimensions": "58.9\" W x 79.5\" D x 85\" H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 6190,
+   "price_low": 9490,
    "price_high": 9490,
    "source_page": "https://saunacosts.com/items/saunalife-garden-luxury-series-model-gl4/"
   },
@@ -5087,7 +5087,7 @@
    "wood_type": "Thermo-Spruce (walls), Thermo-hardwood (benches/backrest)",
    "exterior_dimensions": "90.2\" W x 90.2\" D x 92.5\" H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 6990,
+   "price_low": 12790,
    "price_high": 12790,
    "source_page": "https://saunacosts.com/items/saunalife-garden-luxury-series-model-gl6/"
   },
@@ -5118,7 +5118,7 @@
    "exterior_dimensions": "71.8\" W x 64.2\" D x 86.4\" H (front); 71.8\" W x 64.2\" D x 75.5\" H (back, slanted roof)",
    "warranty_years_display": "Limited lifetime",
    "price_low": 4990,
-   "price_high": 5940,
+   "price_high": 4990,
    "source_page": "https://saunacosts.com/items/saunalife-garden-series-model-g2/"
   },
   {
@@ -5132,7 +5132,7 @@
    "wood_type": "Thermo-Spruce (exterior/staves), Thermo-Aspen (benches/backrest), Thermo-Pine (fascia/cradles)",
    "exterior_dimensions": "95.3\" W x 86.6\" D x 92.1\" H",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4890,
+   "price_low": 6990,
    "price_high": 6990,
    "source_page": "https://saunacosts.com/items/saunalife-garden-series-model-g3/"
   },
@@ -5148,7 +5148,7 @@
    "exterior_dimensions": "7'10.5\" L x 6'10.7\" W x 8'1.9\" H",
    "warranty_years_display": "Limited lifetime",
    "price_low": 24900,
-   "price_high": 24990,
+   "price_high": 26890,
    "source_page": "https://saunacosts.com/items/saunalife-garden-series-model-g6/"
   },
   {
@@ -5327,7 +5327,7 @@
    "wood_type": "Canadian Hemlock",
    "exterior_dimensions": "40.1 diameter x 77.5 height in",
    "warranty_years_display": "Limited lifetime",
-   "price_low": 4999,
+   "price_low": 6599,
    "price_high": 6599,
    "source_page": "https://saunacosts.com/items/sun-home-saunas-sun-home-pod-1-person-red-light-infrared-sauna/"
   },
@@ -5387,7 +5387,7 @@
    "wood_type": "Canadian Hemlock Construction",
    "exterior_dimensions": "59 x 42 x 75 in",
    "warranty_years_display": null,
-   "price_low": 3067.99,
+   "price_low": 3104.99,
    "price_high": 3496,
    "source_page": "https://saunacosts.com/items/sunray-baldwin-2-person-indoor-traditional-sauna/"
   },
@@ -5402,7 +5402,7 @@
    "wood_type": null,
    "exterior_dimensions": "65 x 65 x 75 in",
    "warranty_years_display": null,
-   "price_low": 2489,
+   "price_low": 2198,
    "price_high": 4298,
    "source_page": "https://saunacosts.com/items/sunray-bristol-bay-4-person-indoor-infrared-corner-sauna/"
   },
@@ -5477,8 +5477,8 @@
    "wood_type": "Canadian Cedar Construction",
    "exterior_dimensions": "71 x 63 x 80 in",
    "warranty_years_display": null,
-   "price_low": 4598,
-   "price_high": 4702.99,
+   "price_low": 4298,
+   "price_high": 4598,
    "source_page": "https://saunacosts.com/items/sunray-charleston-4-person-indoor-traditional-sauna/"
   },
   {
@@ -5507,7 +5507,7 @@
    "wood_type": null,
    "exterior_dimensions": "51 x 51 x 98 in",
    "warranty_years_display": null,
-   "price_low": 4990,
+   "price_low": 4690,
    "price_high": 4990,
    "source_page": "https://saunacosts.com/items/sunray-eagle-2-person-outdoor-traditional-sauna/"
   },
@@ -5537,7 +5537,7 @@
    "wood_type": null,
    "exterior_dimensions": "61 x 51 x 98 in",
    "warranty_years_display": null,
-   "price_low": 4990,
+   "price_low": 5290,
    "price_high": 5290,
    "source_page": "https://saunacosts.com/items/sunray-freeport-3-person-outdoor-traditional-sauna/"
   },
@@ -5567,7 +5567,7 @@
    "wood_type": "Natural Canadian Hemlock Wood",
    "exterior_dimensions": "Exterior Height: 87\" x Width: 69\" x Depth: 47\" (Roof: 79\" x 61\" x 87\")",
    "warranty_years_display": null,
-   "price_low": 3990,
+   "price_low": 3690,
    "price_high": 3990,
    "source_page": "https://saunacosts.com/items/sunray-grandby-3-person-outdoor-infrared-sauna/"
   },
@@ -5612,7 +5612,7 @@
    "wood_type": null,
    "exterior_dimensions": "72 x 72 x 76 in",
    "warranty_years_display": null,
-   "price_low": 5790,
+   "price_low": 5490,
    "price_high": 5790,
    "source_page": "https://saunacosts.com/items/sunray-oasis-2-4-person-traditional-canopy-barrel-sauna/"
   },
@@ -5762,7 +5762,7 @@
    "wood_type": "Natural Canadian Hemlock wood",
    "exterior_dimensions": "69 x 47 x 75 in",
    "warranty_years_display": null,
-   "price_low": 3296,
+   "price_low": 3496,
    "price_high": 3698,
    "source_page": "https://saunacosts.com/items/sunray-southport-3-person-indoor-traditional-sauna/"
   },
@@ -5852,7 +5852,7 @@
    "wood_type": "Red Cedar",
    "exterior_dimensions": "91 x 59 x 80 in",
    "warranty_years_display": null,
-   "price_low": 6945,
+   "price_low": 5995,
    "price_high": 6945,
    "source_page": "https://saunacosts.com/items/sweat-kingdom-the-summit-4-person-outdoor-cabin-sauna/"
   },
@@ -5867,8 +5867,8 @@
    "wood_type": "Red Cedar",
    "exterior_dimensions": "91 x 83 x 80 in",
    "warranty_years_display": null,
-   "price_low": 5995,
-   "price_high": 5995,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://saunacosts.com/items/sweat-kingdom-the-summit-6-person-outdoor-cabin-sauna/"
   },
   {
@@ -5927,7 +5927,7 @@
    "wood_type": "Red Cedar Construction",
    "exterior_dimensions": null,
    "warranty_years_display": null,
-   "price_low": 6045,
+   "price_low": 5345,
    "price_high": 6045,
    "source_page": "https://saunacosts.com/items/sweat-kingdom-the-sweat-pod-2-4-person/"
   },

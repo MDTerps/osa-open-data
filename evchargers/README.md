@@ -18,7 +18,7 @@ configs:
 
 The complete catalog behind EV Charger Index (https://evchargerindex.com/), as one CSV file: 246 home EV chargers with their manufacturer specifications and, where we have one, the verified retail price range. It is the same data the site renders, exported by the same build. Free to use with attribution.
 
-As of: prices verified 2026-09-24; export generated 2026-09-25. 175 of the 246 models carry a verified price range; the rest have blank price cells rather than estimates, which is the same rule the site follows. This copy is refreshed monthly from the site; the live file at https://evchargerindex.com/data/ is always the newest.
+As of: prices verified 2026-09-30; export generated 2026-10-02. 189 of the 246 models carry a verified price range; the rest have blank price cells rather than estimates, which is the same rule the site follows. This copy is refreshed monthly from the site; the live file at https://evchargerindex.com/data/ is always the newest.
 
 ## Files
 
