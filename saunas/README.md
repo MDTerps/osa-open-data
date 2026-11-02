@@ -16,13 +16,13 @@ configs:
 
 # Home Sauna Prices and Specs
 
-The complete catalog behind SaunaCosts (https://saunacosts.com/), as one CSV file: 396 home saunas with their manufacturer specifications and, where we have one, the verified retail price range. It is the same data the site renders, exported by the same build. Free to use with attribution.
+The complete catalog behind SaunaCosts (https://saunacosts.com/), as one CSV file: 419 home saunas with their manufacturer specifications and, where we have one, the verified retail price range. It is the same data the site renders, exported by the same build. Free to use with attribution.
 
-As of: prices verified 2026-09-30; export generated 2026-10-02. 327 of the 396 models carry a verified price range; the rest have blank price cells rather than estimates, which is the same rule the site follows. This copy is refreshed monthly from the site; the live file at https://saunacosts.com/data/ is always the newest.
+As of: prices verified 2026-11-02; export generated 2026-11-02. 345 of the 419 models carry a verified price range; the rest have blank price cells rather than estimates, which is the same rule the site follows. This copy is refreshed monthly from the site; the live file at https://saunacosts.com/data/ is always the newest.
 
 ## Files
 
-- `saunacosts-catalog.csv`: 396 rows, 13 columns, exactly as served at https://saunacosts.com/data/
+- `saunacosts-catalog.csv`: 419 rows, 13 columns, exactly as served at https://saunacosts.com/data/
 - `saunacosts-catalog.json`: the same rows as JSON records; a blank CSV cell is null here
 
 ## Fields

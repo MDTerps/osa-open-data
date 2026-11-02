@@ -3,8 +3,8 @@
  "license": "CC BY 4.0",
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
  "attribution": "EV Charger Index, https://evchargerindex.com/",
- "prices_verified": "2026-09-30",
- "generated": "2026-10-02",
+ "prices_verified": "2026-11-02",
+ "generated": "2026-11-02",
  "rows": [
   {
    "brand": "ABB",
@@ -162,7 +162,7 @@
    "safety_listing": "UL and cUL certified",
    "enclosure": "IP67",
    "warranty": null,
-   "price_low": 316.6,
+   "price_low": 399,
    "price_high": 399,
    "source_page": "https://evchargerindex.com/items/ampure-amgo2n/"
   },
@@ -262,8 +262,8 @@
    "safety_listing": "CSA certified",
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 463.2,
-   "price_high": 463.2,
+   "price_low": 439,
+   "price_high": 439,
    "source_page": "https://evchargerindex.com/items/autel-maxi-us-ac-lw10-n14/"
   },
   {
@@ -282,8 +282,8 @@
    "safety_listing": null,
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 487.2,
-   "price_high": 487.2,
+   "price_low": 479,
+   "price_high": 479,
    "source_page": "https://evchargerindex.com/items/autel-maxi-us-ac-lw12/"
   },
   {
@@ -302,8 +302,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "5 years",
-   "price_low": 479.2,
-   "price_high": 479.2,
+   "price_low": 459,
+   "price_high": 459,
    "source_page": "https://evchargerindex.com/items/autel-maxi-us-ac-single-charger-12kw/"
   },
   {
@@ -322,8 +322,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": null,
    "warranty": "5 years (1 year on display and cable)",
-   "price_low": 1028,
-   "price_high": 1219,
+   "price_low": 1013.2,
+   "price_high": 1013.2,
    "source_page": "https://evchargerindex.com/items/autel-maxicharger-80a-residential/"
   },
   {
@@ -362,8 +362,8 @@
    "safety_listing": "CSA certified",
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 511.2,
-   "price_high": 511.2,
+   "price_low": 499,
+   "price_high": 499,
    "source_page": "https://evchargerindex.com/items/autel-maxicharger-ac-elite-home-50a/"
   },
   {
@@ -402,8 +402,8 @@
    "safety_listing": "ETL certified",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 439.95,
-   "price_high": 439.95,
+   "price_low": 634.95,
+   "price_high": 634.95,
    "source_page": "https://evchargerindex.com/items/battery-tender-022-3018/"
   },
   {
@@ -422,8 +422,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "2 years",
-   "price_low": 598.96,
-   "price_high": 598.96,
+   "price_low": 576,
+   "price_high": 576,
    "source_page": "https://evchargerindex.com/items/bmw-61905a1e1b3/"
   },
   {
@@ -442,8 +442,8 @@
    "safety_listing": "UL Listed",
    "enclosure": null,
    "warranty": "2 years",
-   "price_low": null,
-   "price_high": null,
+   "price_low": 912,
+   "price_high": 912,
    "source_page": "https://evchargerindex.com/items/bmw-61905b30091/"
   },
   {
@@ -462,7 +462,7 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": 2257.76,
+   "price_low": 2451.06,
    "price_high": 4649.99,
    "source_page": "https://evchargerindex.com/items/breezev-evc-l2-48a-l1-x-4g-d/"
   },
@@ -482,8 +482,8 @@
    "safety_listing": null,
    "enclosure": "NEMA 3R",
    "warranty": null,
-   "price_low": 3102.65,
-   "price_high": 7213.03,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/breezev-evc-l2-p80-xx-yyy-zzzzz/"
   },
   {
@@ -523,7 +523,7 @@
    "enclosure": "IP65",
    "warranty": null,
    "price_low": 385.95,
-   "price_high": 599,
+   "price_high": 525.59,
    "source_page": "https://evchargerindex.com/items/breezev-evc-l2-s48-18/"
   },
   {
@@ -536,13 +536,13 @@
    "output_current_a": 50,
    "input_voltage_v": 240,
    "connector": "J1772 or NACS",
-   "plug": "NEMA 6-50 or 14-50 plug (configurable)",
+   "plug": "Hardwired or NEMA 6-50 or 14-50 plug",
    "cable_length_ft": 18,
    "es_certified": true,
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 3R",
    "warranty": "3 years",
-   "price_low": 494,
+   "price_low": 549,
    "price_high": 549,
    "source_page": "https://evchargerindex.com/items/chargepoint-cph50-cph50-l18-cpf50-l23-cpf50-l18-pedmnt-dual-cpf50-l18-cmk6-pedmn/"
   },
@@ -562,8 +562,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 4 (IP67)",
    "warranty": "3 years",
-   "price_low": 399,
-   "price_high": 399,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/danlaw-ev-114a/"
   },
   {
@@ -582,7 +582,7 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 403.53,
+   "price_low": 454.95,
    "price_high": 454.95,
    "source_page": "https://evchargerindex.com/items/deltran-battery-tender-022-3017-xx-xx/"
   },
@@ -603,7 +603,7 @@
    "enclosure": "IP66",
    "warranty": "3 years",
    "price_low": 684.95,
-   "price_high": 891.99,
+   "price_high": 684.95,
    "source_page": "https://evchargerindex.com/items/deltran-battery-tender-022-3019-xx-xx/"
   },
   {
@@ -622,8 +622,8 @@
    "safety_listing": "CSA certified",
    "enclosure": "NEMA 4X (IP66)",
    "warranty": "3 years",
-   "price_low": 299,
-   "price_high": 299,
+   "price_low": 329.97,
+   "price_high": 329.97,
    "source_page": "https://evchargerindex.com/items/dewalt-dxpaev016/"
   },
   {
@@ -682,8 +682,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 3R",
    "warranty": "3 years",
-   "price_low": 443.75,
-   "price_high": 597.64,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/eaton-gmev32br-wc/"
   },
   {
@@ -783,7 +783,7 @@
    "enclosure": "NEMA 4",
    "warranty": "3 years",
    "price_low": 449,
-   "price_high": 622.7,
+   "price_high": 449,
    "source_page": "https://evchargerindex.com/items/emporia-emevse1/"
   },
   {
@@ -842,8 +842,8 @@
    "safety_listing": "ETL certified",
    "enclosure": "NEMA 4",
    "warranty": "5 years",
-   "price_low": 1011,
-   "price_high": 1011,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/enphase-hcs-50r/"
   },
   {
@@ -862,8 +862,8 @@
    "safety_listing": "ETL certified",
    "enclosure": "NEMA 4",
    "warranty": "5 years",
-   "price_low": 1236,
-   "price_high": 1236,
+   "price_low": 1374,
+   "price_high": 1374,
    "source_page": "https://evchargerindex.com/items/enphase-hcs-60r/"
   },
   {
@@ -882,8 +882,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 4",
    "warranty": "5 years",
-   "price_low": 2300,
-   "price_high": 2300,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/enphase-hcs-d40r/"
   },
   {
@@ -902,8 +902,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 4",
    "warranty": "5 years",
-   "price_low": 2310,
-   "price_high": 2310,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/enphase-hcs-d50r/"
   },
   {
@@ -922,8 +922,8 @@
    "safety_listing": null,
    "enclosure": "NEMA 4",
    "warranty": "5 years",
-   "price_low": 1600,
-   "price_high": 1600,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/enphase-hsc-80/"
   },
   {
@@ -943,7 +943,7 @@
    "enclosure": null,
    "warranty": null,
    "price_low": 999,
-   "price_high": 1600,
+   "price_high": 999,
    "source_page": "https://evchargerindex.com/items/enphase-iq-ev-charger-2/"
   },
   {
@@ -1002,8 +1002,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 4",
    "warranty": null,
-   "price_low": 675.23,
-   "price_high": 675.23,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/espen-evc-a48r-jxx-ew/"
   },
   {
@@ -1062,8 +1062,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 259.99,
-   "price_high": 259.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0012/"
   },
   {
@@ -1162,8 +1162,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 149.95,
-   "price_high": 149.95,
+   "price_low": 139.95,
+   "price_high": 139.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0141/"
   },
   {
@@ -1182,8 +1182,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 149.95,
-   "price_high": 149.95,
+   "price_low": 139.95,
+   "price_high": 139.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0142/"
   },
   {
@@ -1202,8 +1202,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 249.95,
-   "price_high": 249.95,
+   "price_low": 239.95,
+   "price_high": 239.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0143/"
   },
   {
@@ -1222,8 +1222,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 249.95,
-   "price_high": 249.95,
+   "price_low": 239.95,
+   "price_high": 239.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0144/"
   },
   {
@@ -1242,8 +1242,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 279.95,
-   "price_high": 279.95,
+   "price_low": 249.95,
+   "price_high": 249.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0145/"
   },
   {
@@ -1262,8 +1262,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "Type 4",
    "warranty": "1 year",
-   "price_low": 279.95,
-   "price_high": 279.95,
+   "price_low": 249.95,
+   "price_high": 249.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-100-0146/"
   },
   {
@@ -1388,26 +1388,6 @@
   },
   {
    "brand": "EVDANCE",
-   "name": "EVDANCE U40 Level 2 EV Charger NEMA 14-50 J1772 Wall-mounted - 40A",
-   "model_number": "EV-ACT4005U",
-   "product_type": "Level 2",
-   "form_factor": "Wall-mounted",
-   "output_power_kw": 9.6,
-   "output_current_a": 40,
-   "input_voltage_v": 240,
-   "connector": "J1772",
-   "plug": "NEMA 14-50 plug",
-   "cable_length_ft": 25,
-   "es_certified": false,
-   "safety_listing": "ETL Listed",
-   "enclosure": "Type 4",
-   "warranty": "3 years",
-   "price_low": 399.95,
-   "price_high": 399.95,
-   "source_page": "https://evchargerindex.com/items/evdance-ev-act4005u/"
-  },
-  {
-   "brand": "EVDANCE",
    "name": "EVDANCE Level 1&2 EV Charger NEMA 6-20 J1772 Portable Dual Plug In - 12/16A",
    "model_number": "EV-RS-0002",
    "product_type": "Level 1 and Level 2",
@@ -1422,8 +1402,8 @@
    "safety_listing": null,
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 149.95,
-   "price_high": 149.95,
+   "price_low": 139.95,
+   "price_high": 139.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-rs-0002/"
   },
   {
@@ -1442,8 +1422,8 @@
    "safety_listing": null,
    "enclosure": "IP66",
    "warranty": "1 year",
-   "price_low": 129.95,
-   "price_high": 129.95,
+   "price_low": 139.95,
+   "price_high": 139.95,
    "source_page": "https://evchargerindex.com/items/evdance-ev-rs-0004/"
   },
   {
@@ -1462,8 +1442,8 @@
    "safety_listing": "UL and ETL certified",
    "enclosure": "NEMA 4 (IP66)",
    "warranty": "3 years",
-   "price_low": 379,
-   "price_high": 379,
+   "price_low": 299,
+   "price_high": 299,
    "source_page": "https://evchargerindex.com/items/eviqo-evipower/"
   },
   {
@@ -1602,8 +1582,8 @@
    "safety_listing": "Certified to UL 2594",
    "enclosure": "IP65",
    "warranty": "3 years",
-   "price_low": 799,
-   "price_high": 799,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/fomoco-lj98-10c823-a-followed-by-one-character/"
   },
   {
@@ -1642,8 +1622,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 4",
    "warranty": "3 years",
-   "price_low": 629,
-   "price_high": 629,
+   "price_low": 649,
+   "price_high": 649,
    "source_page": "https://evchargerindex.com/items/free2move-charge-emc2-a/"
   },
   {
@@ -1662,8 +1642,8 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 1999,
-   "price_high": 1999,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/gm-24067708/"
   },
   {
@@ -1682,8 +1662,8 @@
    "safety_listing": "UL certified",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 343.32,
-   "price_high": 343.32,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/gm-85775040/"
   },
   {
@@ -1702,8 +1682,8 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 899,
-   "price_high": 899,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/gm-86332502/"
   },
   {
@@ -1722,8 +1702,8 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 4X",
    "warranty": "3 years",
-   "price_low": 899,
-   "price_high": 899,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/gm-eiaw-u11kssu7e01/"
   },
   {
@@ -1742,8 +1722,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": null,
    "warranty": null,
-   "price_low": 584.99,
-   "price_high": 584.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/greenworks-tools-evc0640/"
   },
   {
@@ -1762,29 +1742,9 @@
    "safety_listing": "ETL Listed",
    "enclosure": null,
    "warranty": null,
-   "price_low": 749.99,
-   "price_high": 749.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/greenworks-tools-evc1648/"
-  },
-  {
-   "brand": "Grizzl-E",
-   "name": "Grizzl-E Alpha Classic (40A, touchscreen)",
-   "model_number": "AL1-14-24-PB",
-   "product_type": "Level 2",
-   "form_factor": "Wall-mounted",
-   "output_power_kw": 9.6,
-   "output_current_a": 40,
-   "input_voltage_v": 240,
-   "connector": "J1772",
-   "plug": "NEMA 14-50 plug",
-   "cable_length_ft": 24,
-   "es_certified": false,
-   "safety_listing": "UL Listed",
-   "enclosure": "NEMA 3R",
-   "warranty": "1 year",
-   "price_low": 199,
-   "price_high": 199,
-   "source_page": "https://evchargerindex.com/items/grizzl-e-al1-14-24-pb/"
   },
   {
    "brand": "Grizzl-E",
@@ -1902,9 +1862,29 @@
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 4",
    "warranty": "3 years",
-   "price_low": 567.9,
+   "price_low": 899.99,
    "price_high": 899.99,
    "source_page": "https://evchargerindex.com/items/grizzl-e-ultimate-80/"
+  },
+  {
+   "brand": "HBE ENERGY",
+   "name": "HBE ENERGY HBE-AC11.5KW02x#x-U",
+   "model_number": "HBE-AC11.5KW02*#*-U",
+   "product_type": "Level 1 and Level 2",
+   "form_factor": "Portable",
+   "output_power_kw": 1.92,
+   "output_current_a": 16,
+   "input_voltage_v": 120,
+   "connector": null,
+   "plug": null,
+   "cable_length_ft": 25,
+   "es_certified": true,
+   "safety_listing": null,
+   "enclosure": null,
+   "warranty": null,
+   "price_low": null,
+   "price_high": null,
+   "source_page": "https://evchargerindex.com/items/hbe-energy-hbe-ac11-5kw02-u/"
   },
   {
    "brand": "HONDA",
@@ -1922,8 +1902,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "3 years",
-   "price_low": 355,
-   "price_high": 355,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/honda-08e70-pt9-100a/"
   },
   {
@@ -1942,8 +1922,8 @@
    "safety_listing": "UL Listed",
    "enclosure": null,
    "warranty": null,
-   "price_low": 437,
-   "price_high": 622.25,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/honda-emevse1/"
   },
   {
@@ -1962,8 +1942,8 @@
    "safety_listing": "ETL certified",
    "enclosure": "NEMA 4 (IP67)",
    "warranty": "3 years",
-   "price_low": 389.99,
-   "price_high": 389.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/icapia-icach50-s/"
   },
   {
@@ -1982,9 +1962,29 @@
    "safety_listing": "ETL certified",
    "enclosure": "NEMA 4",
    "warranty": "3 years",
-   "price_low": 306.99,
-   "price_high": 429.99,
+   "price_low": 339.99,
+   "price_high": 399.99,
    "source_page": "https://evchargerindex.com/items/iyilo-iyilo-ra48/"
+  },
+  {
+   "brand": "JASBON",
+   "name": "JASBON HBE-AC11.5KW02x#x-U",
+   "model_number": "HBE-AC11.5KW02*#*-U",
+   "product_type": "Level 1 and Level 2",
+   "form_factor": "Portable",
+   "output_power_kw": 1.92,
+   "output_current_a": 16,
+   "input_voltage_v": 120,
+   "connector": null,
+   "plug": null,
+   "cable_length_ft": 25,
+   "es_certified": true,
+   "safety_listing": null,
+   "enclosure": null,
+   "warranty": null,
+   "price_low": null,
+   "price_high": null,
+   "source_page": "https://evchargerindex.com/items/jasbon-hbe-ac11-5kw02-u/"
   },
   {
    "brand": "KHONS",
@@ -2002,8 +2002,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": 99.99,
-   "price_high": 99.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/khons-khons-l1-16a/"
   },
   {
@@ -2042,8 +2042,8 @@
    "safety_listing": "Certified to UL 2594 and UL 2231",
    "enclosure": "IP65",
    "warranty": "2 years",
-   "price_low": 369.99,
-   "price_high": 369.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/lectron-ev-charger48a-j1772-pro-app/"
   },
   {
@@ -2162,8 +2162,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "2 years",
-   "price_low": 359.99,
-   "price_high": 359.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/lectron-lechgj1772-12a-40ablkus/"
   },
   {
@@ -2242,8 +2242,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 399.99,
-   "price_high": 399.99,
+   "price_low": 419.99,
+   "price_high": 419.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexushwj1772/"
   },
   {
@@ -2262,8 +2262,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 449.99,
+   "price_high": 449.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexushwj1772-app/"
   },
   {
@@ -2282,8 +2282,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 399.99,
-   "price_high": 399.99,
+   "price_low": 419.99,
+   "price_high": 419.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexushwnacs/"
   },
   {
@@ -2302,8 +2302,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 399.99,
-   "price_high": 399.99,
+   "price_low": 419.99,
+   "price_high": 419.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexusnema14-50j1772/"
   },
   {
@@ -2322,8 +2322,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": null,
-   "price_high": null,
+   "price_low": 449.99,
+   "price_high": 449.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexusnema14-50j1772-app/"
   },
   {
@@ -2342,8 +2342,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "IP66",
    "warranty": "3 years",
-   "price_low": 399.99,
-   "price_high": 399.99,
+   "price_low": 419.99,
+   "price_high": 419.99,
    "source_page": "https://evchargerindex.com/items/lectron-lechgnexusnema14-50nacs/"
   },
   {
@@ -2422,8 +2422,8 @@
    "safety_listing": "cETLus Listed",
    "enclosure": "NEMA 3R",
    "warranty": "1 year",
-   "price_low": 469,
-   "price_high": 1026.02,
+   "price_low": 463.04,
+   "price_high": 475,
    "source_page": "https://evchargerindex.com/items/legrand-l2evse40acp1450/"
   },
   {
@@ -2442,8 +2442,8 @@
    "safety_listing": "cETLus Listed",
    "enclosure": null,
    "warranty": "1 year",
-   "price_low": 500,
-   "price_high": 1042.32,
+   "price_low": 702.9,
+   "price_high": 702.9,
    "source_page": "https://evchargerindex.com/items/legrand-l2evse48ac/"
   },
   {
@@ -2462,8 +2462,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 4X (IP67)",
    "warranty": "3 years",
-   "price_low": 298.99,
-   "price_high": 309.99,
+   "price_low": 299.99,
+   "price_high": 299.99,
    "source_page": "https://evchargerindex.com/items/lenz-evse-w1-40-a/"
   },
   {
@@ -2502,7 +2502,7 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 665.15,
+   "price_low": 1041.92,
    "price_high": 1041.92,
    "source_page": "https://evchargerindex.com/items/leviton-ev32w/"
   },
@@ -2562,7 +2562,7 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 1973.5,
+   "price_low": 1563.99,
    "price_high": 1973.5,
    "source_page": "https://evchargerindex.com/items/leviton-ev48g/"
   },
@@ -2585,6 +2585,26 @@
    "price_low": 1919.99,
    "price_high": 2277.35,
    "source_page": "https://evchargerindex.com/items/leviton-ev48s/"
+  },
+  {
+   "brand": "Leviton",
+   "name": "Leviton Electric Vehicle AC Charging Station (EV48S-2)",
+   "model_number": "EV48S-2",
+   "product_type": "Level 2",
+   "form_factor": "Wall-mounted",
+   "output_power_kw": 11.52,
+   "output_current_a": 48,
+   "input_voltage_v": 240,
+   "connector": null,
+   "plug": null,
+   "cable_length_ft": 18,
+   "es_certified": true,
+   "safety_listing": null,
+   "enclosure": null,
+   "warranty": null,
+   "price_low": null,
+   "price_high": null,
+   "source_page": "https://evchargerindex.com/items/leviton-ev48s-2/"
   },
   {
    "brand": "Leviton",
@@ -2622,8 +2642,8 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 744.9,
-   "price_high": 1002.91,
+   "price_low": 1002.91,
+   "price_high": 1032.99,
    "source_page": "https://evchargerindex.com/items/leviton-ev48w/"
   },
   {
@@ -2642,7 +2662,7 @@
    "safety_listing": null,
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 1806.99,
+   "price_low": 2411.76,
    "price_high": 2411.76,
    "source_page": "https://evchargerindex.com/items/leviton-ev800/"
   },
@@ -2662,7 +2682,7 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 3065.62,
+   "price_low": 2644.99,
    "price_high": 3065.62,
    "source_page": "https://evchargerindex.com/items/leviton-ev80g/"
   },
@@ -2688,6 +2708,26 @@
   },
   {
    "brand": "Leviton",
+   "name": "Leviton Electric Vehicle AC Charging Station (EV80S-2)",
+   "model_number": "EV80S-2",
+   "product_type": "Level 2",
+   "form_factor": "Wall-mounted",
+   "output_power_kw": 19.2,
+   "output_current_a": 80,
+   "input_voltage_v": 240,
+   "connector": null,
+   "plug": null,
+   "cable_length_ft": 18,
+   "es_certified": true,
+   "safety_listing": null,
+   "enclosure": null,
+   "warranty": null,
+   "price_low": null,
+   "price_high": null,
+   "source_page": "https://evchargerindex.com/items/leviton-ev80s-2/"
+  },
+  {
+   "brand": "Leviton",
    "name": "Leviton EV80W",
    "model_number": "EV80W",
    "product_type": "Level 2",
@@ -2702,7 +2742,7 @@
    "safety_listing": "UL certified",
    "enclosure": "NEMA 3R",
    "warranty": "2 years",
-   "price_low": 1943.99,
+   "price_low": 2532.5,
    "price_high": 2532.5,
    "source_page": "https://evchargerindex.com/items/leviton-ev80w/"
   },
@@ -2802,8 +2842,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "IP55",
    "warranty": "5 years",
-   "price_low": 449.99,
-   "price_high": 449.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/msi-ev-life/"
   },
   {
@@ -2822,8 +2862,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "IP55",
    "warranty": "5 years",
-   "price_low": 449.99,
-   "price_high": 449.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/msi-ev-life-plus/"
   },
   {
@@ -2842,8 +2882,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "IP55",
    "warranty": "5 years",
-   "price_low": 449.99,
-   "price_high": 449.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/msi-ev-premium/"
   },
   {
@@ -2942,8 +2982,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "1 year",
-   "price_low": 169,
-   "price_high": 169,
+   "price_low": 180,
+   "price_high": 180,
    "source_page": "https://evchargerindex.com/items/mustart-mt-aapket4n1030-25a22ft/"
   },
   {
@@ -2962,8 +3002,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": "1 year",
-   "price_low": null,
-   "price_high": null,
+   "price_low": 169,
+   "price_high": 169,
    "source_page": "https://evchargerindex.com/items/mustart-mt-aapket4n1030-25a22ft-x/"
   },
   {
@@ -3415,15 +3455,15 @@
    "output_power_kw": 9.6,
    "output_current_a": 40,
    "input_voltage_v": 240,
-   "connector": "J1772",
-   "plug": "NEMA 14-50 plug",
+   "connector": "J1772 or NACS",
+   "plug": "Hardwired",
    "cable_length_ft": 23,
    "es_certified": true,
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 4 (IP65)",
    "warranty": null,
-   "price_low": 1129.95,
-   "price_high": 1129.95,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/powerpump-ac5500/"
   },
   {
@@ -3483,7 +3523,7 @@
    "enclosure": "NEMA 4 (IP65)",
    "warranty": "3 years",
    "price_low": 570,
-   "price_high": 709,
+   "price_high": 616,
    "source_page": "https://evchargerindex.com/items/rab-evc40/"
   },
   {
@@ -3522,8 +3562,8 @@
    "safety_listing": "UL Listed",
    "enclosure": "NEMA 4 (IP65)",
    "warranty": "3 years",
-   "price_low": 1103.26,
-   "price_high": 1137.2,
+   "price_low": 2215,
+   "price_high": 2215,
    "source_page": "https://evchargerindex.com/items/rab-evc48/"
   },
   {
@@ -3547,26 +3587,6 @@
    "source_page": "https://evchargerindex.com/items/rab-evc48-lcb/"
   },
   {
-   "brand": "RAB",
-   "name": "RAB EVC80",
-   "model_number": "EVC80",
-   "product_type": "Level 2",
-   "form_factor": "Wall-mounted",
-   "output_power_kw": 11.52,
-   "output_current_a": 48,
-   "input_voltage_v": 240,
-   "connector": "J1772",
-   "plug": "Hardwired",
-   "cable_length_ft": 25,
-   "es_certified": true,
-   "safety_listing": "UL Listed",
-   "enclosure": "NEMA 4 (IP56)",
-   "warranty": "3 years",
-   "price_low": null,
-   "price_high": null,
-   "source_page": "https://evchargerindex.com/items/rab-evc80/"
-  },
-  {
    "brand": "RIPPLEON",
    "name": "RIPPLEON Level 2 EV Charger",
    "model_number": "ROC00#*; NECS-ACW-11.5-1-US-####",
@@ -3582,8 +3602,8 @@
    "safety_listing": "UL and ETL certified",
    "enclosure": "NEMA 3R (IP65)",
    "warranty": "3 years",
-   "price_low": 379.99,
-   "price_high": 379.99,
+   "price_low": 399.99,
+   "price_high": 399.99,
    "source_page": "https://evchargerindex.com/items/rippleon-level-2-ev-charger/"
   },
   {
@@ -3716,14 +3736,14 @@
    "output_current_a": 50,
    "input_voltage_v": 240,
    "connector": "J1772",
-   "plug": "Hardwired or NEMA 14-50 plug",
+   "plug": "NEMA 14-50 plug",
    "cable_length_ft": 25,
    "es_certified": false,
    "safety_listing": null,
    "enclosure": null,
    "warranty": "3 years",
-   "price_low": 463.87,
-   "price_high": 463.87,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/schumacher-sev1600p1450/"
   },
   {
@@ -3742,8 +3762,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": 129.99,
-   "price_high": 129.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/schumacher-sev1670/"
   },
   {
@@ -3762,8 +3782,8 @@
    "safety_listing": null,
    "enclosure": null,
    "warranty": null,
-   "price_low": 970,
-   "price_high": 1727.04,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/siemens-8em1312-5cf18-0fa3/"
   },
   {
@@ -4242,8 +4262,8 @@
    "safety_listing": "Certified to UL 2594",
    "enclosure": "NEMA 3R",
    "warranty": "5 years",
-   "price_low": 830.44,
-   "price_high": 830.44,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/solar-edge-se-ev-sa-us-40/"
   },
   {
@@ -4282,8 +4302,8 @@
    "safety_listing": "Certified to UL 2594 and UL 2231",
    "enclosure": "NEMA 3R",
    "warranty": "3 years",
-   "price_low": 578.65,
-   "price_high": 578.65,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/span-io-span-drive/"
   },
   {
@@ -4362,8 +4382,8 @@
    "safety_listing": "Certified to UL 2594 and UL 2231",
    "enclosure": "NEMA 3R (IP55)",
    "warranty": "4 years",
-   "price_low": 535,
-   "price_high": 535,
+   "price_low": 585,
+   "price_high": 950.99,
    "source_page": "https://evchargerindex.com/items/tesla-1457768/"
   },
   {
@@ -4542,8 +4562,8 @@
    "safety_listing": "ETL Listed",
    "enclosure": "NEMA 3R",
    "warranty": "4 years",
-   "price_low": 600,
-   "price_high": 660,
+   "price_low": 660,
+   "price_high": 860,
    "source_page": "https://evchargerindex.com/items/universal-wall-connector-1734412/"
   },
   {
@@ -4602,7 +4622,7 @@
    "safety_listing": null,
    "enclosure": "NEMA 4",
    "warranty": "3 years",
-   "price_low": 659.99,
+   "price_low": 699.99,
    "price_high": 699.99,
    "source_page": "https://evchargerindex.com/items/wallbox-pulsar-plus/"
   },
@@ -4823,7 +4843,7 @@
    "enclosure": "NEMA 4",
    "warranty": null,
    "price_low": 701.74,
-   "price_high": 711.3,
+   "price_high": 701.74,
    "source_page": "https://evchargerindex.com/items/westgate-evc-c-40a-ac-9-6kw-j1772/"
   },
   {
@@ -4862,8 +4882,8 @@
    "safety_listing": "CSA certified",
    "enclosure": "NEMA 4X",
    "warranty": null,
-   "price_low": 549,
-   "price_high": 549,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/wolfbox-charging-station-e48/"
   },
   {
@@ -4876,14 +4896,14 @@
    "output_current_a": 50,
    "input_voltage_v": 240,
    "connector": "J1772",
-   "plug": "NEMA 14-50 plug",
+   "plug": "Hardwired",
    "cable_length_ft": 25,
    "es_certified": true,
    "safety_listing": "CSA certified",
    "enclosure": null,
    "warranty": null,
-   "price_low": 499.99,
-   "price_high": 499.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/wolfbox-e50/"
   },
   {
@@ -4902,29 +4922,9 @@
    "safety_listing": "CSA certified",
    "enclosure": null,
    "warranty": null,
-   "price_low": 429.99,
-   "price_high": 429.99,
+   "price_low": null,
+   "price_high": null,
    "source_page": "https://evchargerindex.com/items/wolfbox-we40/"
-  },
-  {
-   "brand": "WOLFBOX",
-   "name": "WOLFBOX WE48 (48 A)",
-   "model_number": "WE48",
-   "product_type": "Level 2",
-   "form_factor": "Wall-mounted",
-   "output_power_kw": 11.52,
-   "output_current_a": 48,
-   "input_voltage_v": 240,
-   "connector": "J1772",
-   "plug": "NEMA 14-50 plug",
-   "cable_length_ft": 25,
-   "es_certified": false,
-   "safety_listing": "CSA certified",
-   "enclosure": null,
-   "warranty": null,
-   "price_low": 439.99,
-   "price_high": 439.99,
-   "source_page": "https://evchargerindex.com/items/wolfbox-we48/"
   }
  ]
 }
